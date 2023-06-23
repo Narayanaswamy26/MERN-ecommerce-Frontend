@@ -1,13 +1,13 @@
 
 #  MERN Stack E-commerce Project - Frontend Repository
 
-🔥🔥 WATCH HERE >>
+🔥🔥
 
 MERN E-Commerce with Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features (complete features given below in Description )
 
 🔥 Code Repositories:
-- React [frontend] -  https://github.com/coderdost/MERN-ecommerce-Frontend
-- Node [backend] - https://github.com/coderdost/MERN-ecommerce-backend
+- React [frontend] -  https://github.com/narayanaswamy26/MERN-ecommerce-Frontend
+- Node [backend] - https://github.com/narayanaswamy26/MERN-ecommerce-backend
 
 
 
